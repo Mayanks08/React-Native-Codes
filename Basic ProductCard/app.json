@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "test0",
-    "slug": "test0",
+    "name": "Lists",
+    "slug": "Lists",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -19,8 +19,7 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      },
-      "package": "com.anonymous.test0"
+      }
     },
     "web": {
       "bundler": "metro",
